@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<?xml-stylesheet type="text/xsl" href="Z:\9 SEMESTRE\SERVICIOS WEB\Practica5_Matricula\Doc.xsl"?>
+<agenda>
+  <coche>
+    <nombre>Mortadelo</nombre>
+	  <marca>Acura</marca>
+	  <modelo>2021</modelo>
+	  <origen>China</origen>
+  </coche>
+  
+  <coche>
+    <nombre>Audi r-8 </nombre>
+	  <marca>Audi</marca>
+	  <modelo>2020</modelo>
+	  <origen>Alemania</origen>
+  </coche>
+
+  <coche>
+    <nombre>Aruz Cadillac</nombre>
+	  <marca>Cadillac</marca>
+	  <modelo>2021</modelo>
+	  <origen>Estados Unidos</origen>
+  </coche>
+  
+  <coche>
+    <nombre>Chevrolet Family</nombre>
+	  <marca>Chevrolet</marca>
+	  <modelo>2019</modelo>
+	  <origen>China</origen>
+  </coche>
+</agenda>
